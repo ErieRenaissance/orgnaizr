@@ -1,0 +1,15 @@
+export { 
+  ITEM_CATEGORIES,
+  ITEM_MATERIALS,
+  ITEM_SIZES,
+  ITEM_COLORS,
+  SECONDARY_COLOR,
+  ITEM_CONDITIONS,
+  ITEM_FUNCTIONS,
+  type ItemCategory,
+  type ItemMaterial,
+  type ItemSize,
+  type ItemColor,
+  type ItemCondition,
+  type ItemFunction,
+} from '@/constants/item-types';
